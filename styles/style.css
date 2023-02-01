@@ -1,0 +1,17 @@
+#dis{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 20px;
+    font-size: 27px;
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+}
+.btn-danger{
+    background-color: #e4000f;
+}
+.btn{
+    color: white;
+}
+.btn:hover{
+    color: white;
+}
