@@ -1,0 +1,13 @@
+{
+    "name": "Practica",
+    "short_name": "practiquita",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#0000ff",
+    "description": "Es un icono de pikasho",
+    "icons": [{
+      "src": "./logo.png",
+      "sizes": "900x900",
+      "type": "image/png"
+    }]
+  }
